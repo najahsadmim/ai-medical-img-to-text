@@ -16,3 +16,5 @@ A Python-based multimodal AI tool using Salesforce BLIP that uses computer visio
 **Future Improvements:**
 - Integrate SQL Database for larger and more robust medical knowledge base.
 - Generation of more elaborate descriptions based on relavant properties of the medical object (eg. function, usage, diseases associated with it etc.)
+- Integrate confidence scoring and "Uncertainty Flags" to prevent the spread of medical misinformation.
+- Domain-Specific Fine-Tuning by optimizing the MLLM on specialized medical datasets to improve accuracy for local pharmaceutical brands and equipment.
